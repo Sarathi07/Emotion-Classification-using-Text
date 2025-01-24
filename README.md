@@ -8,5 +8,5 @@ A web application for Text emotion detection/ Text emotion classification using 
 * Customizable: Can be fine-tuned with additional data for specific use cases.
 * Interactive Web Interface: Provides an easy-to-use interface to input text and view results (if applicable).
 
-  # Project Demo
+# Project Demo
   
